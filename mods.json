@@ -2,7 +2,7 @@
    "title":"Mods",
    "modsContent":[
       {
-         "name":"Клокова Дарья",
+         "name":"Industrial Craft",
          "downloadSize":"0.7 Mb",
          "likeCount" : "45.5 K",
          "downloadCount" : "55.1 K",
@@ -11,7 +11,7 @@
          {
             
                "screenshots" : ["1","2","3"],
-               "description" : "",
+               "description" : "This is a description of mod",
                "downloadLink" : ""
          }
          
@@ -27,7 +27,7 @@
          {
             
                "screenshots" : ["1","2","3"],
-               "description" : "",
+               "description" : "This is a description of mod 2",
                "downloadLink" : ""
          }
       }
