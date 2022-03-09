@@ -10,9 +10,11 @@
          "modContent" :
          {
             
-               "screenshots" : ["1","2","3"],
-               "description" : "This is a description of mod",
-               "downloadLink" : ""
+               "screenshots" : ["https://xn--80aigig6c.xn--p1acf/wp-content/uploads/2020/09/industrial-craft-2-970x570.jpg",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHL0VUn9KEDR8sPtKjdQuAm_l7-ENfAuL5T6Y3a-BZx4i1axrEz3FMaIlRMW3z1WOJG5U&usqp=CAU",
+                                "https://icmods.mineprogramming.org/api/img/1197.png"],
+               "description" : "IndustrialCraft2 — модификация для Minecraft, добавляющая промышленное производство: металлургию, электротехнику, ядерную энергетику, агропромышленность, пивоварение. В модификации присутствуют различные типы энергии, новые устройства, новые инструменты и новые растения.",
+               "downloadLink" : "https://minecraft.fandom.com/ru/wiki/IndustrialCraft_2"
          }
          
        
