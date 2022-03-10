@@ -28,7 +28,9 @@
          "modContent" :
          {
             
-               "screenshots" : ["1","2","3"],
+               "screenshots" : ["https://cdn.misterlauncher.org/posts/images/116/u6HwBAo.jpeg",
+                                "https://cdn.misterlauncher.org/posts/images/116/YFqi0lK.jpeg",
+                                "https://mod-mc.com/uploads/posts/2019-05/1557636558_draconic-evolution-3.jpg"],
                "description" : "This is a description of mod 2",
                "downloadLink" : ""
          }
